@@ -1,5 +1,5 @@
-  <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-  <h2>Welcome to my page! </br> I'm Erick Willian, Fullstack developer evolving from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>.
+  <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+  <h2 align="center">Welcome to my page! </br> I'm Erick Willian, Fullstack developer evolving from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>.
 
   <br>
   <br>
@@ -9,8 +9,8 @@
 </div>
 <br>
 
-<h3>Things I code with</h3>
-<div>
+<h3 align="center">Things I code with</h3>
+<div align="center">
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" />
@@ -43,16 +43,16 @@
 
  </br>
  
-<div class="contact">
+<div class="contact" >
   <img class="aigami" hight="320" width="450" align="right" alt="GIF" src="assets/aigami.gif">
   
-  <br>
+ 
   
   If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
   
   <br>
 
-  <div class="redes"><a  target="_blank"href="https://www.instagram.com/erick.williian/">
+  <div class="redes" ><a  target="_blank"href="https://www.instagram.com/erick.williian/">
     <img align="left" alt="Erick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://discord.com/channels/973003825462009876/973003825462009879" target="_blank">
@@ -74,17 +74,17 @@
 <br>
 <br>
 
-<div class="stats">
+<div class="stats" align="center">
   <a href="https://github.com/EriickW">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EriickW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriickW&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
   <br>
+<div align="center">
+💼 any freelance work? do reach, <a href="mailto:erickwillian223@gmail.com">email</a> :)
 
-- 💼 any freelance work? do reach, <a href="mailto:erickwillian223@gmail.com">email</a> :)
-
-- 💬 ask me about anything, i am happy to help;
+💬 ask me about anything, i am happy to help;
 
 <br>
 <p>
@@ -92,4 +92,4 @@
     Let's work together to build something great
 
 </p>
-  
+  </div>
