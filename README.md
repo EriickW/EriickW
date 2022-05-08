@@ -2,18 +2,22 @@
   <h3>Welcome to my page! </br> I'm Erick Willian, Fullstack developer evolving from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>.
 
   <br>
+  <br>
+  
 <div align="center">
 <img hight="300" width="700" alt="GIF" align="center" src="assets/aigami-diva.gif">
 </div>
 <br>
 
 <h3>Things I code with</h3>
+<div>
 <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-    <img alt="html5" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" />
-   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-    <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
-      <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+<img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-CSS-blue?style=flat-square&logo=css3&logoColor=white" />
+<img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+<img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white" />
+<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7B93E?style=flat-square&logo=javascript&logoColor=white" />
+      </div>
 <br>
 <br>
 
@@ -62,19 +66,19 @@
   </a>
   </div>
 </div>
-<br />
-<br />
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <div class="stats">
   <a href="https://github.com/EriickW">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EriickW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriickW&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
-  <!-- <div> 
-  <a href="https://www.instagram.com/erickwillian223/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "werick631@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erick-willian-747938212/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>.
-  </div> -->
+
   <br>
 
 - 💼 any freelance work? do reach, <a href="mailto:erickwillian223@gmail.com">email</a> :)
@@ -87,15 +91,4 @@
     Let's work together to build something great
 
 </p>
-<style>
-  .redes {
-   display:flex;
-   align-items:center;
-   justify-content:center;
-   gap:10px;
   
-  }
-  .aigami{
-    margin-bottom:20px;
-  }
-  </style>
