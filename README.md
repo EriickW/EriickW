@@ -26,11 +26,9 @@
 ### - Learning :
 
 - ✨ Data Structures & Algorithms
-
 - ✨ CSS Responsiveness
 
-
-  ### - Hobbies :
+### - Hobbies :
 
 - ✨ Gaming Addict
 - ✨ A big fan of Yu-Gi-Oh
@@ -68,6 +66,7 @@
   </a>
   </div>
 </div>
+<br>
 <br>
 <br>
 <br>
