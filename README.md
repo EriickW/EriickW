@@ -1,5 +1,5 @@
   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-  <h3>Welcome to my page! </br> I'm Erick Willian, Fullstack developer evolving from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>.
+  <h2>Welcome to my page! </br> I'm Erick Willian, Fullstack developer evolving from <img src="https://cdn-icons-png.flaticon.com/512/3909/3909370.png" width="13"/> <b>Brazil</b>.
 
   <br>
   <br>
@@ -29,13 +29,15 @@
 
 - ✨ CSS Responsiveness
 
-### - Hobbies :
+
+  ### - Hobbies :
 
 - ✨ Gaming Addict
 - ✨ A big fan of Yu-Gi-Oh
 - ✨ Watching Anime
 - ✨ read fantasy books
 - ✨ Play chess
+
 
 </br>
 
