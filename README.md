@@ -73,8 +73,6 @@
 <br>
 <br>
 <br>
-  <br>
-    <br>
     
 <div class="stats" align="center">
   <a href="https://github.com/EriickW">
