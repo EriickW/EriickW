@@ -43,16 +43,15 @@
 
  </br>
  
-<div class="contact" >
   <img class="aigami" hight="320" width="450" align="right" alt="GIF" src="assets/aigami.gif">
   
- 
+
   
-  If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.
+ <p align="left"> If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me 😉.</p>
   
   <br>
 
-  <div class="redes" ><a  target="_blank"href="https://www.instagram.com/erick.williian/">
+  <div align="left" ><a  target="_blank"href="https://www.instagram.com/erick.williian/">
     <img align="left" alt="Erick's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
   </a>
   <a href="https://discord.com/channels/973003825462009876/973003825462009879" target="_blank">
@@ -65,7 +64,7 @@
     <img align="left" alt="Erick's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
   </a>
   </div>
-</div>
+
 <br>
 <br>
 <br>
