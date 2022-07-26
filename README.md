@@ -21,19 +21,22 @@
 <br />
 <br />
 
-<div class="stats">
+<div align="center">
   <a href="https://github.com/EriickW">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=EriickW&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EriickW&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-- 💼 any freelance work? do reach, <a href="mailto:erickwillian223@gmail.com">email</a> :)
+<div align="center">
 
-- 💬 ask me about anything, i am happy to help;
-
-<br>
-<p>
-
-    Let's work together to build something great
-
-</p>
+  💼 any freelance work? do reach, <a href="mailto:erickwillian223@gmail.com">email</a> :)
+  
+  💬 ask me about anything, i am happy to help;
+  
+  <br>
+  <p>
+  
+      Let's work together to build something great
+  
+  </p>
+</div>
